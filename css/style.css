@@ -1,11 +1,12 @@
 td, th {
 	border: 1px solid;
-  }
+	background-color: #04AA6D;
+        color: white;
+}
 
 h1,  {
     font-size: 30px;
-    color: black;
-    font-family: lato;
+    color: White;
     text-align: center;
 }
 
