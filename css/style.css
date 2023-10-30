@@ -2,6 +2,13 @@ td, th {
 	border: 1px solid;
   }
 
+h1,  {
+    font-size: 30px;
+    color: black;
+    font-family: lato;
+    text-align: center;
+}
+
 body {
-  background-color: lightblue;
+  background-color: Orange;
 }
