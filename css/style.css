@@ -4,17 +4,17 @@ td, th {
         color: white;
 }
 
-body {
-  background-color: tan;
-}
-
-
 #header h1 {
 	position: absolute;
 	left: 420px;
 	top:20px;
-  font-size: 2em;
-	font-family: 'Devonshire', cursive;
+  	font-size: 2em;
+	font-family: verdana;
+
+body {
+  background-color: tan;
+}
+
 
 p {
   font-family: verdana;
