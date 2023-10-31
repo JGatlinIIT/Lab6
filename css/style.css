@@ -4,19 +4,22 @@ td, th {
         color: white;
 }
 
-h1 {
-	position: absolute;
-	left: 420px;
-	top:20px;
-  	font-size: 2em;
-	font-family: verdana;
-}
-
-#Planets {
-text-align: center;
-margin-left: auto;
-margin-right: auto;
-}
+h1{
+    float: none;
+    background: white;
+    position:relative;
+    left: 5px;
+    border: 8px solid;
+    text-align: center;
+  }
+  
+  .planet{
+    background-color: blue;
+    color: lightblue;
+    border: 1px forestgreen;
+    margin: 12px;
+    padding: 18px;
+  }
 
 body {
   background-color: tan;
@@ -27,10 +30,3 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
-
-#wrapper {
-	Midth: 750px;
-	position: absolute; 
-	margin-left: auto; 
-	margin-right: auto: 
-	border: 1px. solid black padding: Opx;)
