@@ -10,6 +10,7 @@ h1{
     position:relative;
     left: 5px;
     border: 8px solid;
+    border-color:blue;
     text-align: center;
   }
   
@@ -24,7 +25,6 @@ h1{
 body {
   background-color: tan;
 }
-
 
 p {
   font-family: verdana;
